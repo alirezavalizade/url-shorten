@@ -10,6 +10,9 @@
     <br />
     <br />
   </h1>
+  <pre>
+    docker-compose build && docker-compose up
+  </pre>
   <br />
   <br />
   <br />
