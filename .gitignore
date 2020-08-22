@@ -1,2 +1,4 @@
-./client-vue/node_modules
-./backend-node/node_modules
+.DS_Store
+
+/client-vue/node_modules
+/backend-node/node_modules
