@@ -32,3 +32,13 @@
 - [`mongo`](https://github.com/mongodb/mongo)
 
 ## Run the app
+
+#### production:
+
+```bash
+docker-compose build && docker-compose up
+```
+
+##### development
+
+checkout package.json for each directory.
