@@ -2,7 +2,7 @@
   <h1>
     <br/>
     <br/>
-    <img src="./static/readme.webp" />
+    <img src="./static/readme.png" />
     <br />
         URL shorten
     <br />
