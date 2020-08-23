@@ -42,6 +42,9 @@
 docker-compose build && docker-compose up
 ```
 
+client: `localhost:3000`
+backend: `localhost:8000`
+
 ##### development
 
 checkout package.json for each directory.
